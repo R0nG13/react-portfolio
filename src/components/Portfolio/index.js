@@ -7,7 +7,7 @@ function Portfolio() {
   const [projects] = useState([
     {
       name: 'evil-trivia',
-      description: 'MERN Stack',
+      description: 'HTML/Bulma/API',
       link: "https://stephen-harding1.github.io/Evil-Trivia/",
       repo: "https://github.com/Stephen-Harding1/Evil-Trivia"
     },
