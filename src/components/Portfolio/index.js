@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
+      name: 'evil-trivia',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://stephen-harding1.github.io/Evil-Trivia/",
+      repo: "https://github.com/Stephen-Harding1/Evil-Trivia"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather-dashboard',
+      description: 'Bootstrap/JavaScript',
+      link: "https://r0ng13.github.io/Weather-Dashboard/",
+      repo: "https://github.com/R0nG13/Weather-Dashboard"
     },
     {
       name: 'run-buddy',
       description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://r0ng13.github.io/run-buddy/",
+      repo: "https://github.com/R0nG13/run-buddy"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'work-day-scheduler',
+      description: 'jQuery',
+      link: "https://r0ng13.github.io/Work-Day-Scheduler/",
+      repo: "https://github.com/R0nG13/Work-Day-Scheduler"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'code-quiz',
+      description: 'JavaScript/CSS',
+      link: "https://r0ng13.github.io/Code-Quiz/",
+      repo: "https://github.com/R0nG13/Code-Quiz"
     },
   ]);
 
